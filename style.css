@@ -34,3 +34,7 @@
 	border-spacing: 0;
 	font-family: 'Chewy', cursive;
 }
+
+#contact table{
+	border-radius: 20px;
+}
